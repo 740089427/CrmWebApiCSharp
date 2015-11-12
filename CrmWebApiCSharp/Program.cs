@@ -18,7 +18,7 @@ namespace CrmWebApiCSharp
 		private const string _redirectUrl = "http://localhost/CrmWebApi";
 		//CRM URL
 		private const string _serviceUrl = "https://org.crm.dynamics.com";
-		//O365 used for authentication w/o login prompt
+		//O365 credentials for authentication w/o login prompt
 		private const string _username = "administrator@org.onmicrosoft.com";
 		private const string _password = "password";
 		//Azure Directory OAUTH 2.0 AUTHORIZATION ENDPOINT
