@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmWebApiCSharp", "CrmWebApiCSharp\CrmWebApiCSharp.csproj", "{657EBF30-C703-434E-B5B3-2D192A3EBD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmWebApiCSharpNoAdal", "CrmWebApiCSharpNoAdal\CrmWebApiCSharpNoAdal.csproj", "{0B2C0EB4-7B29-40A3-A15E-810A68F3A40A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{657EBF30-C703-434E-B5B3-2D192A3EBD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657EBF30-C703-434E-B5B3-2D192A3EBD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657EBF30-C703-434E-B5B3-2D192A3EBD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2C0EB4-7B29-40A3-A15E-810A68F3A40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2C0EB4-7B29-40A3-A15E-810A68F3A40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2C0EB4-7B29-40A3-A15E-810A68F3A40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2C0EB4-7B29-40A3-A15E-810A68F3A40A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
